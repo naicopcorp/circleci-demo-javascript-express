@@ -37,4 +37,4 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: naicop-test
+      appname: circleci-demo-javascript-express
